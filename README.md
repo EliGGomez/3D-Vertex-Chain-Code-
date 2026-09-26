@@ -5,7 +5,7 @@
 ```bash
 Binvox -d 512 Objecto(1).ply
 # or
-Binvox -d 256 Objecto(2).ply
+Binvox -d 256 Objecto(4).ply
 
 Next objects in 512 dimension:
   1,2,3,6,8,9,10,13,14,16,19,21,22,23
