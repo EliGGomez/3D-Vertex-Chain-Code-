@@ -1,7 +1,7 @@
 # 3D-Vertex-Chain-Code-
 ## Binvox and PAQ8L Usage
 
-### Binvox Configurations
+### Binvox Configurations and PAQ8L Configurations
 
 ```bash
 Binvox -d 512 Objecto(1).ply
