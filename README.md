@@ -1,7 +1,4 @@
 # 3D-Vertex-Chain-Code-
-## Binvox and PAQ8L Usage
-
-```markdown
 ## Binvox Configurations
 
 ```bash
