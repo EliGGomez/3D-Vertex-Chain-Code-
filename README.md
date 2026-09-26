@@ -13,4 +13,7 @@ Next objects in 512 dimension:
 Next objects in 256 dimension:
   4,5,7,11,12,15,17,18,20,24,25
 
+##PQL8
 
+PAQ8L archiver (C) 2006, Matt Mahoney et al.
+Free under GPL, [http://www.gnu.org/licenses/gpl.txt](http://www.gnu.org/licenses/gpl.txt)
